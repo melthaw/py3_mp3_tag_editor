@@ -1,0 +1,4 @@
+psutil==5.6.7
+pyyml==0.0.2
+filetype==1.0.7
+eyed3==0.9.6
